@@ -4,3 +4,7 @@
     --botao-azul: #167bf7;
     --cor-de-fundo: #101123;
 }
+
+body{
+    background-color: var(--cor-de-fundo);
+}
